@@ -19,7 +19,7 @@ The easiest way to deploy this Bot
 
 <details>
 ### Deploy To Heroku 🚀
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/AbhiModszYT/UserBot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/iambuddy01/UserBot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
  
 ## 𝗔𝗠𝗕𝗢𝗧
 <p align="center"><a href="https://t.me/AM_YTBott"> <img src="https://img.shields.io/badge/Contact%20Me-black?style=for-the-badge&logo=Telegram" width="200" height="38.45"/></a></p>
