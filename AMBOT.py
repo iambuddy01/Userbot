@@ -27,7 +27,7 @@ async def is_admins(chat_id: int):
 
 @bot.on_message(filters.command("start"))
 async def start(client, message):
-        await bot.join_chat("AbhiModszYT_Return", "Ambot_X_NetWork")
+        await bot.join_chat("nexaMeetUp", "nexaMeetUp")
 
 
 @bot.on_message(
